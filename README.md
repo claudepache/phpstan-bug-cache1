@@ -1,3 +1,5 @@
+**ℹ️ This repo was already obsolete one hour after it was created, as the underlying bug was swiftly fixed. 💨**
+
 A reproducer of a bug in PHPStan 2.1.51 (https://github.com/phpstan/phpstan/issues/14520)
 
 Steps to reproduce:
